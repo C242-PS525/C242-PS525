@@ -1,13 +1,16 @@
 # FruLens: Fruit Nutritional Analysis Application
+# The Official GitHub Identity of Team FruLens
 
-## Group ID: C242-PS525
-
-Welcome to the FruLens project repository! This application focuses on providing nutritional analysis of various fruits, making it easier for users to maintain a healthy lifestyle. Below, you'll find detailed information about our team and the scope of the project.
+Welcome to the FruLens GitHub identity! More than just a project repository, this platform serves as the digital hub for our dedicated team working on FruLens—an innovative application for analyzing the nutritional value of various fruits. With FruLens, we aim to empower users to make informed dietary choices and embrace a healthier lifestyle. Below, you'll find detailed insights about our team members and the scope of our project.
 
 ---
 
 ## Project Overview
-Maintaining optimal body health requires a balanced approach that includes both proper nutrition and physical activity. However, busy lifestyles often push people towards quick, less healthy food options, resulting in lower fruit consumption. Factors such as cost, availability, and lack of awareness about the health benefits of fruits also contribute to this issue.
+**Group ID**: C242-PS525  
+**Title**: FruLens: Fruit Nutritional Analysis Application  
+**Scope**: The application will be available exclusively for Android.
+
+---
 
 ### Why FruLens?
 Fruits are packed with essential nutrients like vitamins, minerals, fiber, and antioxidants that support overall health and help prevent chronic diseases. By using FruLens, users can:
@@ -15,24 +18,26 @@ Fruits are packed with essential nutrients like vitamins, minerals, fiber, and a
 - Learn about the health benefits of different fruits.
 - Make informed dietary choices to improve long-term well-being.
 
-### Project Scope
-- **Platform**: Android (Application only available for Android devices).
-- **Tools/IDE**:
+---
+
+### Tools/IDE:
   - Android Studio
   - Jupyter Notebook
   - Google Colab
   - VS Code
-- **Libraries**:
+### Libraries:
   - TensorFlow
   - NumPy
   - Matplotlib
   - Seaborn
-- **Platforms**:
+### Platforms:
   - Figma
   - Google Cloud
   - Postman
-- **API**: REST API
-- **Dataset Resource**: [Kaggle](https://www.kaggle.com)
+### API: REST API
+### Dataset Resource: [Kaggle](https://www.kaggle.com)
+
+---
 
 ### Challenges and Solutions
 One challenge is the variability in image quality due to differences in camera resolution, lighting, and focus. To address this, the FruLens application will provide guidance to users on taking better pictures, such as:
@@ -55,4 +60,5 @@ Here is our amazing team:
 
 ---
 
-Thank you for visiting our repository! We hope FruLens can help users integrate fruits into their daily diet and improve their overall health. Feel free to explore and contribute to the project!
+Thank you for exploring our GitHub identity! We hope FruLens inspires users to embrace a fruit-rich diet and take steps toward better health. Feel free to dive into our project, share your feedback, or contribute to our mission of promoting healthy living through technology.
+
