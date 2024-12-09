@@ -11,7 +11,10 @@ Welcome to the FruLens GitHub identity! More than just a project repository, thi
 **Scope**: The application will be available exclusively for Android.
 
 ---
-
+### Background:
+Many people's ignorance about the nutritional content of the fruits and vegetables they consume. so we want to Increase public interest in a healthy lifestyle and consumption of nutritious food. this is necessary because there is an opportunity to dominate the AI-based identification application market before competitors emerge.
+### Business Problems/Opportunities:
+There is a lack of nutritional information that is easily accessible to the public and we want to increase user loyalty with additional educational features.
 ### Why FruLens?
 Fruits are packed with essential nutrients like vitamins, minerals, fiber, and antioxidants that support overall health and help prevent chronic diseases. By using FruLens, users can:
 - Analyze the nutritional content of fruits via image recognition.
@@ -36,7 +39,7 @@ Fruits are packed with essential nutrients like vitamins, minerals, fiber, and a
   - Postman
 ### API: REST API
 ### Dataset Resource: [Kaggle](https://www.kaggle.com)
-
+### Business Requirements Document (BRD): [FruLens (Fruit nutritional analysis application)](https://docs.google.com/document/d/122WP_rJecJV29RoygpTVhB0aEKKdcLwDqL-WPEokGbc/edit?tab=t.0)
 ---
 
 ### Challenges and Solutions
